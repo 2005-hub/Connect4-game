@@ -12,7 +12,6 @@ Welcome to Connect Four Game, a Java implementation of the classic Connect Four 
 - [Customization Options](#customization-options)
 - [AI Opponent](#ai-opponent)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## About the Game
 
