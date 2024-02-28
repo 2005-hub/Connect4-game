@@ -28,7 +28,7 @@ Connect Four is a two-player strategy game where the objective is to be the firs
 
 ## Installation
 
-1. Clone this repository to your local machine using:
+1. Clone this repository to your local machine using: https://github.com/2005-hub/Connect4-game?tab=readme-ov-file
 2. Open the project in your preferred Java IDE.
 3. Build and run the project.
 
