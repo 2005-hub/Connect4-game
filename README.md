@@ -2,7 +2,6 @@
 
 Welcome to Connect Four Game, a Java implementation of the classic Connect Four board game!
 
-![Connect Four Game Screenshot](screenshot.png)
 
 ## Table of Contents
 - [About the Game](#about-the-game)
