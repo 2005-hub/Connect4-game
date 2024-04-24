@@ -34,15 +34,14 @@ Connect Four is a two-player strategy game where the objective is to be the firs
 ## How to Play
 
 1. Launch the game.
-2. Choose the game mode (single or two-player).
-3. Customize game settings if desired.
+2. Enter two-player names.
+3. For help click on help menu.
 4. Start playing by taking turns dropping discs into the grid.
 5. Connect four discs of the same color horizontally, vertically, or diagonally to win!
 
 ## Customization Options
 
 - **Board Size:** Adjust the grid size to your preference.
-- **Color Scheme:** Choose from various color schemes for the game pieces and board.
 - **Difficulty Level:** Select the AI opponent's difficulty level to match your skill level.
 
 ## AI Opponent
